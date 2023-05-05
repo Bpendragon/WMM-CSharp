@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMM_Csharp", "WMM_Csharp\WMM_Csharp.csproj", "{F2FE9F36-3396-4A64-A6B7-86088C1FF8EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9785A6A5-DCE5-48FD-964B-2E00CB39B65F}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FE9F36-3396-4A64-A6B7-86088C1FF8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FE9F36-3396-4A64-A6B7-86088C1FF8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FE9F36-3396-4A64-A6B7-86088C1FF8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FE9F36-3396-4A64-A6B7-86088C1FF8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780E1A17-EA33-427F-AD59-EEA10101EB7E}
+	EndGlobalSection
+EndGlobal
