@@ -17,7 +17,7 @@ namespace WMM_Csharp
         private const double RADIUS = 6371200.0; //Earth Radius, meters, value taken directly from WMM annual report
         private const double WGS84_RADIUS = 6378137.0;
         private const double WGS84_RF = 298.257223563;
-        private static double epoch;
+        public static double epoch;
 
         static MagneticFieldCalculator()
         {
