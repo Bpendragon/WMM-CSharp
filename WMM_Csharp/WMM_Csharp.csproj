@@ -4,6 +4,9 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>disable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>wmm-csharp</PackageId>
+    <Title>NCEI World Magnetic Model implemented in C#</Title>
   </PropertyGroup>
 
   <ItemGroup>
